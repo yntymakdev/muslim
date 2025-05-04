@@ -1,3 +1,4 @@
+"use client";
 import Home from "@/logic/service/components/Home";
 import React from "react";
 
